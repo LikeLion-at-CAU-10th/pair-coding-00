@@ -1,19 +1,23 @@
+body{
+    background-color: lightgray;
+}
+
 .layout-container {
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
     margin: auto;
-    width: 100vw;
+    width: 90vw;
     height: 100vh;
 }
 
 .top{
+    width: 90%;
+    margin-bottom: 20px;
     padding-left: 5%;
     padding-right: 5%;
     flex-basis: 5%;
     display: flex;
     justify-content: space-between;
-    background-color: aliceblue;
 
 }
 
@@ -44,7 +48,7 @@
 }
 
 .login-layout {
-    flex-basis: 20%;
+    flex-basis: 15%;
     display: flex;
     justify-content: space-evenly;
 }
@@ -54,38 +58,48 @@
 }
 
 .menu-container{
+    width: 90%;
     flex-basis: 7%;
     display: flex;
     justify-content: space-between;
-    background-color: aqua;
+    margin-bottom: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 .menu-layout{
     width: 20%;
     display: flex;
     justify-content: space-between;
+    align-items: center;
+}
+
+.more{
+    flex-basis: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .board{
-    flex-basis: 60%;
+    flex-basis: 90%;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
     border-right: 5%;
     border-left: 5%;
-    background-color: gray;
 }
 
 .post{
     display: flex;
     justify-content: space-evenly;
-    background-color: beige;
     flex-basis: 10%;
+    margin-bottom: 30px;
 }
 
 .content {
     flex-basis: 20%;
-    background-color: blue;
+    background-color: white;
 }
 
 .img {
@@ -95,7 +109,9 @@
 }
 
 .content-img {
-    width: 15vw;
+    width: 20vw;
+    padding-left: 0;
+    padding-right: 0;
 
 }
 
@@ -106,5 +122,15 @@
 .script {
     font-size: small;
     margin-top: 3px;
+}
+.write{
+    padding: 10px;
+
+}
+.profile{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+
 }
 
