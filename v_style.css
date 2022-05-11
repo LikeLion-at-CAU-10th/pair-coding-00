@@ -10,7 +10,7 @@
 .top{
     padding-left: 5%;
     padding-right: 5%;
-    flex-basis: 10%;
+    flex-basis: 5%;
     display: flex;
     justify-content: space-between;
     background-color: aliceblue;
@@ -18,10 +18,30 @@
 }
 
 .title {
-    
-
+    font-weight: bold;
+    font-size: 25px;
 }
 
+.mode {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.search {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.login {
+    border-radius: 20%;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 .login-layout {
     flex-basis: 20%;
@@ -58,6 +78,33 @@
 
 .post{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     background-color: beige;
+    flex-basis: 10%;
 }
+
+.content {
+    flex-basis: 20%;
+    background-color: blue;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-img {
+    width: 15vw;
+
+}
+
+.content-title {
+    font-weight: bold; 
+}
+
+.script {
+    font-size: small;
+    margin-top: 3px;
+}
+
