@@ -1,0 +1,136 @@
+body{
+    background-color: lightgray;
+}
+
+.layout-container {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 90vw;
+    height: 100vh;
+}
+
+.top{
+    width: 90%;
+    margin-bottom: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+    flex-basis: 5%;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.title {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.mode {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.search {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.login {
+    border-radius: 20%;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-layout {
+    flex-basis: 15%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.icon{
+    width: 20px;
+}
+
+.menu-container{
+    width: 90%;
+    flex-basis: 7%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.menu-layout{
+    width: 20%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.more{
+    flex-basis: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.board{
+    flex-basis: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    border-right: 5%;
+    border-left: 5%;
+}
+
+.post{
+    display: flex;
+    justify-content: space-evenly;
+    flex-basis: 10%;
+    margin-bottom: 30px;
+}
+
+.content {
+    flex-basis: 20%;
+    background-color: white;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-img {
+    width: 20vw;
+    padding-left: 0;
+    padding-right: 0;
+
+}
+
+.content-title {
+    font-weight: bold; 
+}
+
+.script {
+    font-size: small;
+    margin-top: 3px;
+}
+.write{
+    padding: 10px;
+
+}
+.profile{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+
+}
+
