@@ -1,0 +1,50 @@
+body{
+    
+}
+.total-container{
+    margin:120px 100px 50px 470px;
+    width : 500px;
+    height: 600px;
+   
+    border : 2px solid rgb(197, 194, 194);
+    border-radius: 10px;
+    display: flex;
+
+    flex-direction: column;
+}
+.top-bar{
+    flex-basis: 17%;
+    
+    
+}
+.top-alert{
+    display: flex;
+    padding-top : 3%;
+    padding-bottom: 3%;
+    border-bottom: 1px solid rgb(197, 194, 194);
+}
+.front {
+    flex-basis: 92%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+.xbar{
+    flex-basis: 6%;
+    width: auto;
+    height: auto;
+    max-width: 20px;
+    max-height: 20px;
+}
+
+.main-login{
+    flex-basis: 30%;
+}
+
+.social-login{
+    flex-basis: 50%;
+}
+.curiosity{
+    font-size: 22px;
+}
