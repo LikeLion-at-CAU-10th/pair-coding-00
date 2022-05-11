@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1:wght@200&display=swap');
+body{
+    font-family: 'Gothic+A1';
+    font-size: 18px;
+
+    
+}
+.total-container{
+    margin:120px 100px 50px 470px;
+    width : 500px;
+    height: 600px;
+    background-color: white;
+    border : 2px solid rgb(197, 194, 194);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.top-bar{
+    flex-basis: 17%;
+}
+.top-alert{
+    display: flex;
+    padding-top : 3%;
+    padding-bottom: 3%;
+    border-bottom: 1px solid rgb(197, 194, 194);
+}
+.main-login{
+    display:flex;
+    flex-direction: column;
+}
+.front {
+    flex-basis: 92%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+.xbar{
+    display:flex;
+    flex-basis: 6%;
+    width: auto;
+    height: auto;
+    max-width: 20px;
+    max-height: 20px;
+}
+
+.main-login{
+    flex-basis: 30%;
+    display:flex;
+    
+}
+
+.social-login{
+    display:flex;
+    flex-basis: 50%;
+    flex-direction : column;
+    justify-content: space-evenly;
+    align-items : center;
+}
+
+.box{
+    display: flex;
+    flex-basis: 20%;
+    align-items:center;
+    width : 91%;
+    border-radius: 12px;
+
+}
+
+.google{
+    display: flex;
+    border : 2px solid gray;
+}
+
+.facebook{
+    display: flex;
+    border : 2px solid blue;
+}
+
+.naver{
+    display: flex;
+    border : 2px solid greenyellow;
+}
+.kakao{
+    display: flex;
+    border : 2px solid yellow;
+}
+
+.curiosity{
+    display:flex;
+    font-size: 22px;
+    flex-basis : 15%;
+    margin-bottom: 30px;
+    margin-left: 13px;
+}
+
+.check{
+    display : flex;
+    flex-basis : 10%;
+    margin-left:15px;
+    margin-bottom: 5px;
+}
+
+.login-button{
+    display:flex;
+    flex-basis : 35%;
+    height: 100%;
+    font-size: 26px;
+    border : 1px solid white;
+    background-color: rgba(41, 109, 211, 0.459);
+    border-radius: 11px;
+    width: 93%;
+    align-items: center;
+    justify-content: center;
+    color : white;
+    margin: 0 auto;
+    
+}
+
+.find{
+    display:flex;
+    flex-basis : 25%;
+    margin: 0 auto;
+    margin-top: 16px;
+}
+.jump1{
+    padding-right: 8px;
+}
+.jump2{
+    padding-left:  8px;
+}
+.line{
+    width : 92%;
+    display: flex;
+    flex-basis : 3%;
+}
+
+.social-text{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.pic{
+    display: flex;
+    flex-basis: 6%;
+    margin-left: 8px;
+}
+.social-text{
+    display: flex;
+    flex-basis: 90%;
+    color:rgb(66, 63, 63);
+}
