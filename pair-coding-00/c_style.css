@@ -1,0 +1,18 @@
+.carrot-sec{
+    background-color: #f7f5ed;
+}
+
+.main-cot{
+    background-color: white;
+    border: 1px solid rgba(0, 0, 0, 0.7);
+    border-radius: 3px;
+    width: 60%;
+    margin: 0 auto;
+
+}
+.product{
+    height: auto;
+    width: auto;
+    max-width: 30%;
+    max-height: 30%;
+}
