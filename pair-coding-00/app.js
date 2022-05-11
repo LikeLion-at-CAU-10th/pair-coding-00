@@ -3,5 +3,4 @@ function like(id) {
 
   cnt += 1;
   document.getElementsByClassName("like-num")[id].innerHTML = cnt;
-  //   document.getElementById(location).innerHTML = cnt;
 }
