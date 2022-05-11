@@ -1,0 +1,21 @@
+.layout-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+. top{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.title {
+    flex-basis: 80%;
+
+}
+
+.login-layout {
+    flex-basis: 15%;
+    display: flex;
+}
+
