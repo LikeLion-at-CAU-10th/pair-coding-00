@@ -1,3 +1,7 @@
-let count = document.querySelector(".like-num");
+function like(id) {
+  let cnt = parseInt(document.getElementsByClassName("like-num")[id].innerHTML);
 
-function click() {}
+  cnt += 1;
+  document.getElementsByClassName("like-num")[id].innerHTML = cnt;
+  //   document.getElementById(location).innerHTML = cnt;
+}
