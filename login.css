@@ -1,27 +1,28 @@
 body{
-    
+    background-color: gray;
 }
 .total-container{
     margin:120px 100px 50px 470px;
     width : 500px;
     height: 600px;
-   
+    background-color: white;
     border : 2px solid rgb(197, 194, 194);
     border-radius: 10px;
     display: flex;
-
     flex-direction: column;
 }
 .top-bar{
     flex-basis: 17%;
-    
-    
 }
 .top-alert{
     display: flex;
     padding-top : 3%;
     padding-bottom: 3%;
     border-bottom: 1px solid rgb(197, 194, 194);
+}
+.main-login{
+    display:flex;
+    flex-direction: column;
 }
 .front {
     flex-basis: 92%;
@@ -31,6 +32,7 @@ body{
     font-weight: bold;
 }
 .xbar{
+    display:flex;
     flex-basis: 6%;
     width: auto;
     height: auto;
@@ -40,11 +42,74 @@ body{
 
 .main-login{
     flex-basis: 30%;
+    display:flex;
 }
 
 .social-login{
+    display:flex;
     flex-basis: 50%;
+    flex-direction : column;
+    justify-content: space-evenly;
+    align-items : center;
 }
+
+.box{
+    display: flex;
+    flex-basis: 20%;
+    align-items:center;
+    width : 91%;
+    border-radius: 12px;
+
+}
+
+.google{
+    display: flex;
+    border : 2px solid gray;
+}
+
+.facebook{
+    display: flex;
+    border : 2px solid blue;
+}
+
+.naver{
+    display: flex;
+    border : 2px solid greenyellow;
+}
+.kakao{
+    display: flex;
+    border : 2px solid yellow;
+}
+
 .curiosity{
+    display:flex;
     font-size: 22px;
+    flex-basis : 35%;
+}
+
+.check{
+    display : flex;
+    flex-basis : 10%;
+}
+
+.login-button{
+    display:flex;
+    flex-basis : 25%;
+}
+
+.find{
+    display:flex;
+    flex-basis : 25%;
+}
+
+.line{
+    width : 46%;
+    display: flex;
+    flex-basis : 3%;
+}
+
+.social-text{
+    display:flex;
+    align-items: center;
+    justify-content: center;
 }
