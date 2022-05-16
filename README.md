@@ -28,4 +28,4 @@
     <br> https://github.com/Jeudi-judy/Juhyeon-Byun.git <br>
 
 
-<br> 💕🥲😶‍🌫️🎶
+<br> <center> 💕🥲😶‍🌫️🎶 </center>
