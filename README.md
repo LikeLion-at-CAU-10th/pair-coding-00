@@ -4,3 +4,28 @@
 
 영권 선영
 민규 상민 진우 하린 수은 주현
+
+
+
+
+<br><br><br>
+
+## Velog
+---
+
+<img src="velog.png">
+
+<br>
+
+* __팀원__
+
+    * 수은
+    <br> _html 이름 지으면서 힘들어하기,  8개 만든거 후회하기_
+    <br> https://github.com/LikeLion-at-CAU-10th/Sueun-Lee <br>
+
+    * 주현
+    <br> _사진 경로 이상해서 시간 날리기, 8개 하나 하나 class 수정하기_
+    <br> https://github.com/Jeudi-judy/Juhyeon-Byun.git <br>
+
+
+<br> $$💕🥲😶‍🌫️🎶$$
