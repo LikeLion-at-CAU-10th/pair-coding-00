@@ -50,5 +50,5 @@
     <br> _display flex에 대한 이해도 부족. 엄마는 외계인 좋아함_ <br>
     <br> https://cadenzza1.github.io/ <br>
 
-<br> https://www.youtube.com/watch?v=xx7oLTPATwk <br>
+<br> https://www.youtube.com/watch?v=xx7oLTPATwk 
 <br> https://youtu.be/ENjrJ_zyeUc?list=PLdW0_NSsHTziq6EJjalea6y0dYk7X9KmI <br>
