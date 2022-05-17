@@ -14,6 +14,8 @@
 ---
 
 <img src="velog.png">
+<br><br>
+<img src="login.png">
 
 <br>
 
@@ -27,5 +29,12 @@
     <br> _사진 경로 이상해서 시간 날리기, 8개 하나 하나 class 수정하기_
     <br> https://github.com/Jeudi-judy/Juhyeon-Byun.git <br>
 
+    * 진우 
+    <br> _너무 여유롭게 진행해서 JS 건드리지 못한거 아쉬움, HTML 뼈대구성 시간 너무 오래걸림_ <br>
+    <br> https://jinu-u-kim.github.io/portfolio_1/ <br>
+
+    * 민규 
+    <br>                                <br>
+    <br> https://cadenzza1.github.io/ <br>
 
 <br> 💕🥲😶‍🌫️🎶
