@@ -54,7 +54,7 @@
 
 ---
 
-<img src="carrot.png">
+<img src="/img/carrot.png">
 <br><br>
 
 <br>
